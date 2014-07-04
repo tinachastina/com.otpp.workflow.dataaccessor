@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.clover.version\=3.0.4\r\nsonar.maven3.version\=2.7
+projectKey=otpp.workflow\:com.otpp.workflow.dataaccessor
+serverUrl=http\://localhost\:9000
+version=2
